@@ -79,7 +79,7 @@ This study assesses the ability of machine learn-ing to **classify verses from B
   综合使用ROC-AUC、MCC（马修斯相关系数）、F1值、平均精度（AP）等多指标。
 
 ### **2. 模型对比**
-[[ROC-AUC\|ROC-AUC]]
+[[00 inbox/ROC-AUC\|ROC-AUC]]
 ![Pasted image 20250305195152.png](/img/user/09%20settings/Z%20attachment/Pasted%20image%2020250305195152.png)
 ![Pasted image 20250305195201.png](/img/user/09%20settings/Z%20attachment/Pasted%20image%2020250305195201.png)
 
