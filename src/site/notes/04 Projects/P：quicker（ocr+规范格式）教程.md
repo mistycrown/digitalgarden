@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T21:57:13.641+08:00"}
+{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T22:01:18.723+08:00"}
 ---
 
-本文介绍如何使用 quicker 实现快速 ocr+快速格式化文本。并补充一些好用的 quiker 脚本。
+本文介绍如何使用 quicker 实现快速 ocr+快速格式化文本。并补充一些好用的 quicker 脚本。
 
-## 安装 quiker
-quiker 可以把我们在电脑上的一系列操作，打包为一个快捷操作。
+## 安装 quicker
+quicker 可以把我们在电脑上的一系列操作，打包为一个快捷操作。
 比如说，如果我需要对一串文本进行格式规范化，
 一般的操作为：找到一个输入框→将英文引号改成中文引号→删除多余空格→把全角字母改成半角字母→删除多余的链接……
 但是 quicker 可以把这些操作打包为一个操作：复制文字→点击“规范粘贴”动作。
-quiker 仅支持Windows系统；mac 系统有类似的软件，可以自行寻找。
+quicker 仅支持Windows系统；mac 系统有类似的软件，可以自行寻找。
 官网地址： https://getquicker.net/
 不充钱也能用，只是格子（可安装的动作）比较少，浅度使用足够。
 ## 如何安装动作
@@ -19,7 +19,7 @@ quiker 仅支持Windows系统；mac 系统有类似的软件，可以自行寻�
 3. 鼠标中键唤起 quiker 主界面，找到一个空白的格子，右键，粘贴分享的动作（建议粘在上半部分，因为上半部分是通用的，下半部分是绑定特定应用的）![Pasted image 20250317211458.png|236](/img/user/09%20settings/Z%20attachment/Pasted%20image%2020250317211458.png)
 4. 正常情况下，使用只需点击中键唤起quiker 主界面，再点击“截图 ocr ”这个动作的格子，就可以开始截图 ocr，识别后的文字会自动到剪贴板
 5. 如果需要更快速的调用，可以开启轮盘菜单，过程如下。
-	1. 复制需要放到快捷菜单中的动作
+	1. 从主界面中复制需要放到快捷菜单中的动作
 	2. 打开设置（主界面左上角的齿轮）
 	3. 将动作粘贴到轮盘菜单中（免费版的格子会比我图中的少一些）
 	4. 一般来说，按住鼠标右键不松开，然后向对应方向滑动，即可唤起“截图 ocr ”这个动作
@@ -57,7 +57,7 @@ quiker 仅支持Windows系统；mac 系统有类似的软件，可以自行寻�
 	- [简繁互换 - by 快客_蚕子 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=53190fc1-34c5-4175-ea6c-08d7c0f8387a)
 	- [常用语（新版） - by 咿呀杀杀 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1) 我用来存很多不同的 ai 提示词
 	- [云板 - by 治钧 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=66502c1c-6ce0-4edb-37bc-08d8346ce0f2) 用于打草稿
-	- 其他动作有兴趣可以自行探索，比如快速加个引号，加个书名号之类，还是很容易实现的
+	- 其他动作有兴趣可以自行探索，比如快速加个引号，加个书名号之类，自行编写还是很容易实现的
 - 其他
 	- [Translator - by zryan - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed) 快速翻译
 	- [加日期版本号 - by VernonLin - 动作信息 - Quicker](https://getquicker.net/sharedaction?code=2b5d8d44-b318-4bd7-55b3-08d7cbb492a7) 对某文件/文件夹首次使用将添加版本号和当前日期
