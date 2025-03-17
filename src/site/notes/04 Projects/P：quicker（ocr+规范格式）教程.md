@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T22:01:18.723+08:00"}
+{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T22:04:46.762+08:00"}
 ---
 
 本文介绍如何使用 quicker 实现快速 ocr+快速格式化文本。并补充一些好用的 quicker 脚本。
@@ -21,8 +21,8 @@ quicker 仅支持Windows系统；mac 系统有类似的软件，可以自行寻�
 5. 如果需要更快速的调用，可以开启轮盘菜单，过程如下。
 	1. 从主界面中复制需要放到快捷菜单中的动作
 	2. 打开设置（主界面左上角的齿轮）
-	3. 将动作粘贴到轮盘菜单中（免费版的格子会比我图中的少一些）
-	4. 一般来说，按住鼠标右键不松开，然后向对应方向滑动，即可唤起“截图 ocr ”这个动作
+	3. 右键单击空白格子，将动作粘贴到轮盘菜单中（免费版的格子会比我图中的少一些）
+	4. 一般来说，需要使用时，按住鼠标右键不松开，然后向对应方向滑动，即可唤起“截图 ocr ”这个动作（如果唤不起，可以设置一下打开轮盘菜单的方式，见下文）
 
 ![Pasted image 20250317212118.png](/img/user/09%20settings/Z%20attachment/Pasted%20image%2020250317212118.png)
 
