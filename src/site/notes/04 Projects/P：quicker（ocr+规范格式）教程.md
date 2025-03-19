@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T22:04:46.762+08:00"}
+{"dg-publish":true,"dg-permalink":"/notes/quickerocr","permalink":"/notes/quickerocr/","created":"2025-03-17T21:03:55.920+08:00","updated":"2025-03-17T22:40:51.815+08:00"}
 ---
 
-本文介绍如何使用 quicker 实现快速 ocr+快速格式化文本。并补充一些好用的 quicker 脚本。
+本文介绍如何使用[[03 pages/101工具应用/quicker\|quicker]] 实现快速 ocr+快速格式化文本。并补充一些好用的 quicker 脚本。
 
 ## 安装 quicker
 quicker 可以把我们在电脑上的一系列操作，打包为一个快捷操作。
