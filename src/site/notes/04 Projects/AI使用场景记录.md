@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/notes/aiexample","permalink":"/notes/aiexample/","created":"2025-03-14T21:36:06.031+08:00","updated":"2025-03-29T14:47:33.694+08:00"}
+{"dg-publish":true,"permalink":"/04 Projects/AI使用场景记录/","created":"2025-03-14T21:36:06.031+08:00","updated":"2025-03-29T14:52:48.614+08:00"}
 ---
 
 ## AI 辅助阅读
@@ -40,7 +40,7 @@ graph TD; A[开始] --> B[使用速读提示词判断资料是否值得精读]; 
      * 公式规范：
        + 单行公式用`$...$`包裹
        + 行内公式用`$...---
-{"dg-publish":true,"dg-permalink":"/notes/aiexample","permalink":"/notes/aiexample/","created":"2025-03-14T21:36:06.031+08:00","updated":"2025-03-29T14:47:33.694+08:00"}
+{"dg-publish":true,"permalink":"/04 Projects/AI使用场景记录/","created":"2025-03-14T21:36:06.031+08:00","updated":"2025-03-29T14:52:48.614+08:00"}
 ---
 
 ## AI 辅助阅读
