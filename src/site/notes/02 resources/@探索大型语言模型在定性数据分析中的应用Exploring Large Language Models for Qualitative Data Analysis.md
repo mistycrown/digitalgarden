@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 resources/@探索大型语言模型在定性数据分析中的应用Exploring Large Language Models for Qualitative Data Analysis/","created":"2025-03-21T12:39:23.828+08:00","updated":"2025-03-21T13:24:47.421+08:00"}
+{"dg-publish":true,"permalink":"/02 resources/@探索大型语言模型在定性数据分析中的应用Exploring Large Language Models for Qualitative Data Analysis/","created":"2025-03-21T12:39:23.828+08:00","updated":"2025-03-30T14:13:30.642+08:00"}
 ---
 
 
@@ -36,7 +36,7 @@ DATS是一个为数字人文（DH）学者设计的开源QDA平台，基于**扎
 
 > [!TIP] Grounded Theory-based research💡
 >  [Grounded theory - Wikipedia](https://en.wikipedia.org/wiki/Grounded_theory)
->  扎根理论研究（Grounded Theory-based research）是一种定性研究方法，由巴尼·格拉泽（Barney Glaser）和安塞尔姆·斯特劳斯（Anselm Strauss）在20世纪60年代提出，旨在通过系统收集和分析数据，从中发展出理论，而不是从预设假设开始验证。它特别适用于探索社会过程和复杂现象，强调理论必须“扎根”于数据本身。
+>  [[00 inbox/扎根理论研究\|扎根理论研究]]（Grounded Theory-based research）是一种定性研究方法，由巴尼·格拉泽（Barney Glaser）和安塞尔姆·斯特劳斯（Anselm Strauss）在20世纪60年代提出，旨在通过系统收集和分析数据，从中发展出理论，而不是从预设假设开始验证。它特别适用于探索社会过程和复杂现象，强调理论必须“扎根”于数据本身。
 >  - **数据收集与分析并行**：研究者边收集数据边分析，逐步发现模式。
 >  - **常比较法**：通过不断比较数据，识别类别和关系，确保理论与数据紧密相关。
 >  - **编码过程**：包括开放编码（分解数据，命名概念）、轴心编码（连接类别，构建关系）和选择性编码（围绕核心类别整合理论）。
