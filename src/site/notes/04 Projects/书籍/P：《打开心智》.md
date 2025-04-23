@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04 Projects/书籍/P：《打开心智》/","created":"2024-06-11T12:56:34.000+08:00","updated":"2025-03-02T20:44:01.257+08:00"}
+{"dg-publish":true,"permalink":"/04 Projects/书籍/P：《打开心智》/","created":"2024-06-11T12:56:34.000+08:00","updated":"2025-04-22T20:30:42.641+08:00"}
 ---
 
 本书补充链接[《打开心智》更新通道 (yuque.com)](https://www.yuque.com/lachel/otl44f/wiyfgp)
