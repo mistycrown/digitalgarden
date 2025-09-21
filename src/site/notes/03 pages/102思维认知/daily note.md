@@ -21,4 +21,4 @@
 
 ## Reference
 -  [双向链接时代的快速无压记录 (yuque.com)](https://www.yuque.com/deerain/gannbs/ffqk2e) **daily note 哲学！**
-- [[02 resources/R： 吕立青：从每日笔记开始，「间歇日记」让你坚持每天记笔记\|R： 吕立青：从每日笔记开始，「间歇日记」让你坚持每天记笔记]]
+- [[02 resources/R其他资源/R： 吕立青：从每日笔记开始，「间歇日记」让你坚持每天记笔记\|R： 吕立青：从每日笔记开始，「间歇日记」让你坚持每天记笔记]]
